@@ -25,3 +25,10 @@ i had a pet cat blacky
 i play guitar <br>
 i broke my leg last year<br>
 i dont eat bacon <br>
+
+## johanne
+
+got a noise complaint from a hotel
+dreamed to be a a good juggler
+i am color blind
+
