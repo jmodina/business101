@@ -6,5 +6,11 @@ helper repo for basd
 ## roman
 
 don't like fruit
-kissed Elizabeth Hurley
+# kissed Elizabeth Hurley
 broke into a castle
+
+## matthew b
+
+had a pet tarantula
+never got a speeding ticket
+met Hulk Hogan at the airport
