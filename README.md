@@ -25,3 +25,9 @@ i had a pet cat blacky
 i play guitar <br>
 i broke my leg last year<br>
 i dont eat bacon <br>
+
+## johanne
+
+i am color blind
+never learned to ride a bike
+best friends with michael jordan
