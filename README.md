@@ -14,3 +14,9 @@ broke into a castle
 had a pet tarantula
 never got a speeding ticket
 met Hulk Hogan at the airport
+
+## Farina
+
+i have a son
+i am mariied
+i had a pet cat blacky
