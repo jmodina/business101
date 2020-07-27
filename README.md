@@ -18,5 +18,5 @@ met Hulk Hogan at the airport
 ## Farina
 
 i have a son
-i am mariied
+i am married
 i had a pet cat blacky
